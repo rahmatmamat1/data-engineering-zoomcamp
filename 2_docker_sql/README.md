@@ -40,7 +40,7 @@ docker build -t taxi_ingest:v001 .
 Specify download data URL:
 
 ```
-URL="http://192.168.1.3:8000/output.csv.gz"
+URL="https://github.com/DataTalksClub/nyc-tlc-data/releases/download/yellow/yellow_tripdata_2021-01.csv.gz"
 ```
 
 Run Docker data ingestion:
