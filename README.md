@@ -4,7 +4,7 @@ Repository to document my progress in the Data Engineering Zoomcamp course by Da
 Course Github: https://github.com/DataTalksClub/data-engineering-zoomcamp 
 
 ## Syllabus
-### Week 1: Introduction & Prerequisites
+### [Week 1: Introduction & Prerequisites](week_1_basic_n_setup/)
 * Introduction to GCP
 * Docker and docker-compose
 * Running Postgres locally with Docker
