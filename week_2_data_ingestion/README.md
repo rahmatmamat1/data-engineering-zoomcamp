@@ -1,0 +1,1 @@
+Follow the instruction [here](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/week_2_data_ingestion/airflow/1_setup_official.md)
