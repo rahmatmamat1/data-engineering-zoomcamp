@@ -12,7 +12,11 @@ Course Github: https://github.com/DataTalksClub/data-engineering-zoomcamp
 * Preparing the environment for the course
 
 ### Week 2: Data ingestion
-* 
+* Data Lake
+* Workflow orchestration
+* Setting up Airflow locally
+* Ingesting data to GCP with Airflow
+* Ingesting data to local Postgres with Airflow
 
 ### Week 3: Data Warehouse
 * 
